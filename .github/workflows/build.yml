@@ -2,7 +2,7 @@ name: Validate and build desktop releases
 on:
   push:
     branches: [main]
-    tags: ['v*']
+    tags: ["v*"]
   pull_request:
   workflow_dispatch:
 concurrency:
