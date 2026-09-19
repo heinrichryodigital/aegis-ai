@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+.netlify/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+test-results/
+playwright-report/
+artifacts/
+.playwright-cli/
+output/
